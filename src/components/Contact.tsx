@@ -49,7 +49,7 @@ const Contact = () => {
   };
 
   const socialLinks = [
-    { icon: Mail, label: 'Email', href: 'mailto:contact@example.com' },
+    { icon: Mail, label: 'Email', href: 'mailto:akshitsharma0903@gmail.com' },
     { icon: Linkedin, label: 'LinkedIn', href: 'https://linkedin.com/' },
     { icon: Github, label: 'GitHub', href: 'https://github.com/' },
     { icon: Instagram, label: 'Instagram', href: 'https://instagram.com/' }
@@ -162,7 +162,7 @@ const Contact = () => {
                         rel="noopener noreferrer"
                         className="text-primary text-sm hover:underline"
                       >
-                        {link.label === 'Email' ? 'contact@example.com' : `Connect on ${link.label}`}
+                        {link.label === 'Email' ? 'akshitsharma0903@gmail.com' : `Connect on ${link.label}`}
                       </a>
                     </div>
                   </CardContent>
