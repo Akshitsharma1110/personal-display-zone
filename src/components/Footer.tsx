@@ -17,8 +17,8 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
-            <h2 className="text-2xl font-bold">Portfolio</h2>
-            <p className="text-gray-400 mt-2">Building the web, one project at a time</p>
+            <h2 className="text-2xl font-bold">Akshit</h2>
+            <p className="text-gray-400 mt-2">Web Developer</p>
           </div>
           
           <div className="flex space-x-4">
@@ -39,7 +39,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            &copy; {currentYear} John Doe. All rights reserved.
+            &copy; {currentYear} Akshit. All rights reserved.
           </p>
           
           <nav className="mt-4 md:mt-0">

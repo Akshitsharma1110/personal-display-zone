@@ -22,14 +22,14 @@ const Hero = () => {
       <div className="container mx-auto px-4 py-16 md:py-0">
         <div className="max-w-3xl animate-slide-up">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
-            Hi, I'm <span className="text-primary">John Doe</span>
+            Hi, I'm <span className="text-primary">Akshit</span>
           </h1>
           <h2 className="text-2xl md:text-3xl text-gray-700 mb-8">
-            Frontend Developer & UI/UX Designer
+            Frontend Developer
           </h2>
           <p className="text-gray-600 text-lg md:text-xl mb-10 leading-relaxed">
-            I create beautiful, responsive websites with engaging user experiences.
-            Let's build something amazing together.
+            I create responsive websites with engaging user experiences.
+            Let's build something together.
           </p>
           <div className="flex flex-wrap gap-4">
             <Button 
